@@ -4,9 +4,7 @@
 💡 Passionate about **Artificial Intelligence, Backend Development, and Cloud Solutions**  
 🚀 Building scalable systems and experimenting with **LLMs, RAG, and agent-based AI**  
 
----
-
-## 🔧 Tech Stack  
+--- 
 
 
 # 💻 Tech Stack
@@ -22,11 +20,17 @@
 | 🎯 Other              | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) |
 
 
+---
+
+## 🎯 Current Focus
+
+- 🔬 Researching **Large Language Models** and their applications
+- 🏗️ Building **microservices** with modern cloud architectures  
+- 🤖 Exploring **AI agents** and autonomous systems
+- 📚 Contributing to **open-source** projects
+
 ## 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkanylmaz1)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/furkanyllmz)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:furkanyl509@gmail.com)  
-
----
-✨ *“Keep learning, keep building, keep innovating.”*  
